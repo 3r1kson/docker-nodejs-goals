@@ -1,3 +1,5 @@
+# FROM node:14 for specific version
+
 FROM node
 
 WORKDIR /app
